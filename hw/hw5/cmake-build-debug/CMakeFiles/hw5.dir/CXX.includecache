@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/hw/hw5/main.cpp
+iostream
+-
+cassert
+-
+list
+-
+unrolled.h
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/hw/hw5/unrolled.h
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/hw/hw5/unrolled.h
+iostream
+-
+cassert
+-
+
