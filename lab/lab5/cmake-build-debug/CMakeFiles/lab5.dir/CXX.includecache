@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab5/test_vec.cpp
+iostream
+-
+cmath
+-
+vec.h
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab5/vec.h
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab5/vec.h
+
