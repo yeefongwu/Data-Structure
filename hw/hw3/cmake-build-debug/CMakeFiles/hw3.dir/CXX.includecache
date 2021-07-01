@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/hw/hw3/jagged_array.h
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/hw/hw3/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+cstdlib
+-
+cassert
+-
+jagged_array.h
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/hw/hw3/jagged_array.h
+

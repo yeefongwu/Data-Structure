@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/hw/hw2/player.cpp
+iostream
+-
+vector
+-
+string
+-
+cctype
+-
+fstream
+-
+iomanip
+-
+cstdlib
+-
+algorithm
+-
+player.h
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/hw/hw2/player.h
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/hw/hw2/player.h
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+iomanip
+-
+algorithm
+-
+cstdlib
+-
+
