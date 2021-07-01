@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab11/check3.cpp
+string
+-
+iostream
+-
+sstream
+-
+cassert
+-
+superhero.h
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab11/superhero.h
+team.h
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab11/team.h
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab11/superhero.h
+string
+-
+iostream
+-
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab11/team.cpp
+cassert
+-
+superhero.h
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab11/superhero.h
+team.h
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab11/team.h
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab11/team.h
+string
+-
+iostream
+-
+list
+-
+superhero.h
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab11/superhero.h
+

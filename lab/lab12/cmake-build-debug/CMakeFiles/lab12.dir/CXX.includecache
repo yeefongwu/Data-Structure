@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab12/heapsort.cpp
+iostream
+-
+vector
+-
+cassert
+-
+
