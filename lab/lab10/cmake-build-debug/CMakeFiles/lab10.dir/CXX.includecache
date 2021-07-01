@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab10/ds_set.h
+iostream
+-
+utility
+-
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab10/test_ds_set.cpp
+iostream
+-
+string
+-
+utility
+-
+cassert
+-
+ds_set.h
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab10/ds_set.h
+
