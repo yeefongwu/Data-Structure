@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab7/start.cpp
+fstream
+-
+iostream
+-
+list
+-
+vector
+-
+string
+-
+

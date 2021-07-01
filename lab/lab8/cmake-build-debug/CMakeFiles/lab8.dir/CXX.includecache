@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yeefongwu/OneDrive/rpi/2021spring/cs/lab/lab8/phonebook.cpp
+iostream
+-
+vector
+-
+string
+-
+map
+-
+
